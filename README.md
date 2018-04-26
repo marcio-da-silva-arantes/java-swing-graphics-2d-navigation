@@ -1,6 +1,8 @@
 # java-swing-graphics-2d-navigation
 Java Library using Swing extension to Graphics 2D navigation
 
+![Alt text](https://github.com/marcio-da-silva-arantes/java-swing-graphics-2d-navigation/blob/master/doc/ScreenSample1.gif "Sample")
+
 ### What is this repository for? ###
 
 * Quick summary
